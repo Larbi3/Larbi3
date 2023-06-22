@@ -1,6 +1,6 @@
 ### Hi, I'm Loreta 👋
 
-I am an aspiring IT Technician who is eager to transition into the Information Technology field with a focus on cybersecurity because of its challenging and constantly evolving nature.
+I am an aspiring IT Techician with a love for tech. Welcome to my page!
 
 Development Projects:
  
