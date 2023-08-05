@@ -5,7 +5,7 @@ I'm a IT Technician with a love for Tech. Welcome to my page!
 <h2>👨‍💻🌱 Developmental Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Home Lab](https://github.com/joshmadakor1/AD_PS)
 - <b>Python</b>
 
 <h2>🎓 Certifications</h2>
