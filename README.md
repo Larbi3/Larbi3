@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1>Hi, I'm Loreta!👋 </h2>
 
-<!--
-**Larbi3/Larbi3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a IT Technician with a love for Tech. Welcome to my page!
 
-Here are some ideas to get you started:
+<h2>👨‍💻🌱 Developmental Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>PowerShell</b>
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+- <b>Python</b>
+
+<h2>🎓 Certifications</h2>
+
+- CompTia Security+ (Exp. 04/26)
+- MS-900: Microsoft 365 Fundamentals
+- CompTia Network+ (In Progress)
+- CompTia A+ (In Progress)
+
+<h2>  📫 How to reach me:</h2>
+- linkedin: https://www.linkedin.com/in/loreta-larbi-2a2a15173/
+
+
