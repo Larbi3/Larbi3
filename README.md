@@ -2,12 +2,11 @@
 
 I'm a IT Technician with a love for Tech. Welcome to my page!
 
-<h2>👨‍💻🌱 Developmental Projects:</h2>
+<h2>🌱 Developmental Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Active Directory Home Lab](https://github.com/Larbi3/ActiveDirectoryLab)
-  - [File Integrity Monitor(FIM)](https://github.com/Larbi3/PowerShell-FIM)
-- <b>Python</b>
+- [Active Directory Home Lab](https://github.com/Larbi3/ActiveDirectoryLab)
+- [File Integrity Monitor(FIM)](https://github.com/Larbi3/PowerShell-FIM)
+
 
 <h2>🎓 Certifications</h2>
 
