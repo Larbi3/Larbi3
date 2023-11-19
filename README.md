@@ -7,9 +7,7 @@ I'm a IT Technician with a love for Tech. Welcome to my page!
 - [Active Directory Home Lab](https://github.com/Larbi3/ActiveDirectoryLab)
 - [File Integrity Monitor(FIM)](https://github.com/Larbi3/PowerShell-FIM)
 - [Vulnerbility Management with Nessus](https://github.com/Larbi3/Vulnerability-Management/tree/main)
-- [Azure Sentinel (SIEM)]
 - [Keylogger](https://github.com/Larbi3/Keylogger)
-- 
 
 
 <h2>🎓 Certifications</h2>
