@@ -1,6 +1,6 @@
 <h1>Hi, I'm Loreta!👋 </h2>
 
-I'm a IT Technician with a love for Tech. Welcome to my page! 
+I'm an IT Technician with a love for Tech. Welcome to my page! 
 
 I’m actively learning to code and applying new skills to technical projects and concepts I’m eager to explore. I look forward to sharing my work here and using this page to document and showcase my learning journey. Thank you for visiting.
 
