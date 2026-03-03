@@ -2,7 +2,7 @@
 
 I'm an IT Specialist growing in Tech. Welcome to my page! 
 
-I’m actively learning to code and applying new skills to technical projects and concepts I’m eager to explore. I look forward to sharing my work here and using this page to document and showcase my learning journey. Thank you for visiting.
+I’m actively learning to code and gain new skills through technical projects/concepts I’m eager to explore. I look forward to sharing my work here and using this page to document and showcase my learning journey. Thank you for visiting.
 
 <h2>🌱 Developmental Projects:</h2>
 
